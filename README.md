@@ -353,6 +353,3 @@ Possible learning exercises and production-oriented improvements include:
 7. Add persistence only after defining a data model and validation rules.
 8. Rename the project from `servelet` to `servlet` in a dedicated change if backward compatibility is not required.
 
-## License
-
-No license is currently declared. Add a license before distributing the project outside its intended learning environment.
